@@ -5,8 +5,6 @@
 **Project Name:** Slope  
 **Author:** Pirate-Emperor
 
-![Slope Logo](slope_logo.png)
-
 ## Description
 
 Slope is a comprehensive repository developed by Pirate-Emperor that focuses on generating slope maps from various lunar models, including Lunar_ISR, Crater_Detection, Height_Map, DTM_3D, and Hazard_Map. This project combines the outputs of these models to create detailed slope maps of the lunar terrain. Slope maps are valuable for understanding the topography of the Moon and are essential for various lunar exploration and research applications.
