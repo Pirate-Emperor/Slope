@@ -19,6 +19,15 @@ Slope integrates the following models to derive slope maps:
 4. **DTM_3D:** Estimates the depth information of lunar terrain from 2D images.
 5. **Hazard_Map:** Identifies potential hazards on the lunar surface.
 
+## Screenshots
+### Slope
+![screenshot1](images/super_slope_hazard.png)
+![screenshot2](images/slope_mask.png)
+![screenshot3](images/slope_hazard.png)
+![screenshot4](images/super_slope_hazard.png)
+![screenshot5](images/output_super_slope_dtm.png)
+![screenshot6](images/output_slope_dtm.png)
+
 ## Features
 
 1. **Comprehensive Slope Mapping:** Slope combines the outputs of various models to create comprehensive slope maps, capturing both terrain features and potential hazards.
